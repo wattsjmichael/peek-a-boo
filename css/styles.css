@@ -1,5 +1,6 @@
 #walrus-showing {
   display: none;
+  float: left;
 }
 
 .clickable {
@@ -10,4 +11,3 @@
 .clickable:hover {
   text-decoration: underline;
 }
-
